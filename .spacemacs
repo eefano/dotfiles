@@ -10,7 +10,7 @@
    dotspacemacs-configuration-layer-path '()
    ;; List of configuration layers to load. If it is the symbol `all' instead
    ;; of a list then all discovered layers will be installed.
-   dotspacemacs-configuration-layers '(games org colors syntax-checking auto-completion git c-c++ racket clojure lua themes-megapack)
+   dotspacemacs-configuration-layers '(games org colors syntax-checking auto-completion version-control git github c-c++ racket clojure lua themes-megapack)
    ;; A list of packages and/or extensions that will not be install and loaded.
    dotspacemacs-excluded-packages '()
    ;; If non-nil spacemacs will delete any orphan packages, i.e. packages that
